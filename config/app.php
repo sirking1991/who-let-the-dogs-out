@@ -4,6 +4,8 @@ use Illuminate\Support\Facades\Facade;
 
 return [
 
+    'dog-ceo-api' => 'https://dog.ceo/api',
+
     /*
     |--------------------------------------------------------------------------
     | Application Name
